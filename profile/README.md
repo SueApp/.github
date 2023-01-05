@@ -29,8 +29,4 @@
   - git checkout SUMR-123.
   - git rebase main.
   - git push origin SUMR-123.
-  - Than create pull request 
-  
-  ## Postman Workspaces
-  - <a href="https://app.getpostman.com/join-team?invite_code=b4b5517feb5321485d572f3c99a2aa21&target_code=a680693f425cdb5d5ac08f614d21b71f">Workspace Court API</a>
-  - <a href="https://app.getpostman.com/join-team?invite_code=b4b5517feb5321485d572f3c99a2aa21&target_code=17d343c9b735f349a652cd3df85a46c5">Backend endpoints</a>
+  - Than create pull request
