@@ -1,5 +1,3 @@
-<div align="center"><h1>SueApp</h1></div>
-
 ## Frontend React:
   - package manager: __Yarn__
   - install dependencies: `yarn install`
