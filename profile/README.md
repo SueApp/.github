@@ -21,7 +21,7 @@
   - __Do work__
   - __Work is done__
   - `git add .`
-  - `git commit -m "commit changes"`
+  - `git commit -m "commit message"`
   - `git checkout main`
   - `git pull origin main`
   - `git checkout SUMR-123`
