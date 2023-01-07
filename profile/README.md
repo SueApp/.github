@@ -17,11 +17,11 @@
   ## Github Commit Workflow:
   - `git checkout main.`
   - `git pull origin main`
-  - `git checkout -b SUMR-123`
+  - `git checkout -b SUMR-123` (use JIRA task name eg. SUMR-123)
   - __Do work__
   - __Work is done__
   - `git add .`
-  - `git commit -m "commit-name"` (use JIRA task name eg. SUMR-123)
+  - `git commit -m "commit changes"`
   - `git checkout main`
   - `git pull origin main`
   - `git checkout SUMR-123`
