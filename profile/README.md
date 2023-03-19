@@ -1,7 +1,7 @@
 ## Frontend React:
   - package manager: __Yarn__
   - install dependencies: `yarn install`
-  - start project: `yarn start`
+  - start project: `yarn run dev`
   - add dependecie: `yarn add <package-name>`
   - delete dependecie: `yarn remove <package-name>`
   - build react app: `yarn build`
